@@ -15,7 +15,8 @@ To get started, Fill the Register below
 |:----------------:	    |------------------	|--------------	|---------------	|-----------------	| --------------|
 | Ajala AbdulSamii  	| kgasta@gmail.com 	| 08168861541 	| Lets do this! 	| jalasem         	| FullStack     |
 |Aminujatto Abdulqahhar | jattoade@gmail.com| 08162740850   |              	    | jattoabdul        | Backend       |
-|                  	    |                  	|              	|               	|                 	|               |
+|Abdullateef Debo Eazi  | deboeazi@gmail.com| 09081215380   |     	            | deboeazi          |front end    |   
+|                 	    |                   |               |                   |                   |               |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
@@ -31,3 +32,4 @@ To get started, Fill the Register below
 Please make sure to arrange the table well before you leave it
 
 click on the next tab to see a preview of this readme
+
