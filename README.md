@@ -13,8 +13,8 @@ To get started, Fill the Register below
 
 |     Fullname     	    | Email            	| Phone No.    	| Remarks       	| Github username 	| Interest      |
 |:----------------:	    |------------------	|--------------	|---------------	|-----------------	| --------------|
-| Ajala AbdulSamii  	| kgasta@gmail.com 	| 081688615641 	| Lets do this! 	| jalasem         	| FullStack     |
-|                  	    |                  	|              	|               	|                 	|               |
+| Ajala AbdulSamii  	| kgasta@gmail.com 	| 08168861541 	| Lets do this! 	| jalasem         	| FullStack     |
+|Aminujatto Abdulqahhar | jattoade@gmail.com| 08162740850   |              	    | jattoabdul        | Backend       |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
