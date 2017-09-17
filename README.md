@@ -11,13 +11,13 @@ I wish you the best of Luck as you journey with me.
 To get started, Fill the Register below
 ------------------------------
 
-|     Fullname     	    | Email            	| Phone No.    	| Remarks       	| Github username 	| Interest      |
-|:----------------:	    |------------------	|--------------	|---------------	|-----------------	| --------------|
-| Ajala AbdulSamii  	| kgasta@gmail.com 	| 08168861541 	| Lets do this! 	| jalasem         	| FullStack     |
-|Aminujatto Abdulqahhar | jattoade@gmail.com| 08162740850   |              	    | jattoabdul        | Backend       |
-|Abdullateef Debo Eazi  | deboeazi@gmail.com| 09081215380   |     	            | deboeazi          |front end    |   
-|                 	    |                   |               |                   |                   |               |
-|                  	    |                  	|              	|               	|                 	|               |
+|     Fullname     	    | Email            	  | Phone No.     | Remarks       	| Github username 	| Interest      |
+|:----------------:	    |---------------------|-------------- |---------------	|-----------------	| --------------|
+| Ajala AbdulSamii  	| kgasta@gmail.com 	  | 08168861541   | Lets do this! 	| jalasem         	| FullStack     |
+|Aminujatto Abdulqahhar | jattoade@gmail.com  | 08162740850   |              	| jattoabdul        | Backend       |
+|Abdullateef Debo Eazi  | deboeazi@gmail.com  | 09081215380   |     	        | deboeazi          | front end     |   
+|kamaldeen yusuf kehinde|devyousefk@gmail.com |08146367757    |       am here   | kenkarmah         | FullStack     |
+|abdulwaheed abdulwareez|abdulwariz090@gmail.com|07081024717 |         	    |  wareez    	    | front end     |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
