@@ -1,4 +1,3 @@
-# Jalasem-Youth-DevHub
 # Jalasem Youth Dev Hub
 ----------------------
 
