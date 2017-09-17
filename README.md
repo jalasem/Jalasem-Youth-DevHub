@@ -11,22 +11,22 @@ I wish you the best of Luck as you journey with me.
 To get started, Fill the Register below
 ------------------------------
 
-|     Fullname     	    | Email            	| Phone No.    	| Remarks       	| Github username 	|
-|:----------------:	    |------------------	|--------------	|---------------	|-----------------	|
-| Ajala AbdulSamii  	| kgasta@gmail.com 	| 081688615641 	| Lets do this! 	| jalasem         	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
-|                  	    |                  	|              	|               	|                 	|
+|     Fullname     	    | Email            	| Phone No.    	| Remarks       	| Github username 	| Interest      |
+|:----------------:	    |------------------	|--------------	|---------------	|-----------------	| --------------|
+| Ajala AbdulSamii  	| kgasta@gmail.com 	| 081688615641 	| Lets do this! 	| jalasem         	| FullStack     |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
+|                  	    |                  	|              	|               	|                 	|               |
 
 Please make sure to arrange the table well before you leave it
 
